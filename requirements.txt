@@ -1,0 +1,12 @@
+collections
+easyocr
+google
+math
+numpy
+opencv-python
+os
+pandas
+re
+subprocess
+time
+ultralytics
